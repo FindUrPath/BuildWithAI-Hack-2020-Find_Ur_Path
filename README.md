@@ -26,4 +26,7 @@ Joined by a team of data and technology enthusiasts,
 2) https://www.youtube.com/watch?v=0ufM21sO03Y
 
 **Code**
-
+1) https://github.com/FindUrPath/Raspberry-Pi-To-Cloud
+2) https://github.com/FindUrPath/Speech-To-Text
+3) https://github.com/FindUrPath/Text-Classification
+4) https://github.com/FindUrPath/Text-To-Speech
