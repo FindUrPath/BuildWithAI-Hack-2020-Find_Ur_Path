@@ -1,5 +1,7 @@
 # BuildWithAI-Hack-2020-Find_Ur_Path
 
+![Test Image 1](https://github.com/FindUrPath/BuildWithAI-Hack-2020-Find_Ur_Path/blob/master/findurpath.PNG)
+
 
 ## Meet our team:
 **Your success is also ours**
