@@ -20,7 +20,7 @@ Joined by a team of data and technology enthusiasts,
 
 >Easy to carry and the design of the necklace gives you all the information you need while shopping, because many people do not see the validity period and it is a big mistake, besides giving you the price or the price of the product and that is the most important.
 
-# Links:
+# Link:
 **Videos:**
 1) https://www.youtube.com/watch?v=xoM4xqzrhvc
 2) https://www.youtube.com/watch?v=0ufM21sO03Y
